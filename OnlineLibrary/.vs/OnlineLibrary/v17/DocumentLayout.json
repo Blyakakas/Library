@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A66114-E9E5-4826-B984-5F8BBE855AAF}|OnlineLibrary.csproj|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A66114-E9E5-4826-B984-5F8BBE855AAF}|OnlineLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A66114-E9E5-4826-B984-5F8BBE855AAF}|OnlineLibrary.csproj|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\initialisationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A66114-E9E5-4826-B984-5F8BBE855AAF}|OnlineLibrary.csproj|solutionrelative:initialisationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\AppData\\Local\\Temp\\ma4qcpy3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A66114-E9E5-4826-B984-5F8BBE855AAF}|OnlineLibrary.csproj|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2A66114-E9E5-4826-B984-5F8BBE855AAF}|OnlineLibrary.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\UserManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:29:18.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserManager.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\UserManager.cs",
+              "RelativeToolTip": "UserManager.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAUwHoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:15:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ma4qcpy3..sql",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\AppData\\Local\\Temp\\ma4qcpy3..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\ma4qcpy3..sql",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\AppData\\Local\\Temp\\ma4qcpy3..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\ma4qcpy3..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
+              "WhenOpened": "2024-11-14T15:14:21.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-13T15:41:58.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitialisationDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\InitialisationDataBase.cs",
+              "RelativeDocumentMoniker": "InitialisationDataBase.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\source\\repos\\OnlineLibrary\\InitialisationDataBase.cs",
+              "RelativeToolTip": "InitialisationDataBase.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:41:29.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

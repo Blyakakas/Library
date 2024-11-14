@@ -1,0 +1,12 @@
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\OnlineLibrary.exe.config
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\OnlineLibrary.exe
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\OnlineLibrary.pdb
+C:\Users\Артем\source\repos\OnlineLibrary\obj\Debug\OnlineLibrary.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\OnlineLibrary\obj\Debug\OnlineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\OnlineLibrary\obj\Debug\OnlineLibrary.exe
+C:\Users\Артем\source\repos\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\LibraryDB.mdf
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\LibraryDB_log.ldf
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артем\source\repos\OnlineLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артем\source\repos\OnlineLibrary\obj\Debug\OnlineLi.D493E3FF.Up2Date
